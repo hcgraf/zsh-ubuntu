@@ -1,3 +1,5 @@
+Extracted from oh-my-zsh, this is the original readme
+
 This plugin was created because the aliases in the debian plugin are inconsistent and hard to remember. Also this apt-priority detection that switched between apt-get and aptitude was dropped to keep it simpler. This plugin uses apt-get for everything but a few things that are only possible with aptitude I guess. Ubuntu does not have aptitude installed by default.
 
 acs = Apt-Cache Search  
